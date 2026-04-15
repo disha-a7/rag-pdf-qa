@@ -31,3 +31,6 @@ User asks a question → system retrieves context → LLM generates answer
 - Add Streamlit UI
 - Improve retrieval ranking
 - Multi-document support
+
+- ## Model Used
+- LLaMA (via Ollama)
